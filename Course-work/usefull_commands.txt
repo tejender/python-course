@@ -1,0 +1,5 @@
+ Linux: 
+     which python : give the python installation path
+     python --version : gives the current installed version of python
+     python : enters into an interactive mode
+     pip --version : pip version / installation path
